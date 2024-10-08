@@ -373,7 +373,7 @@ def mainscreen():
     l4.place(x=0,y=0)
     l4.config(font=("Courier", 40))
 
-    l5 = Label(app, text="quary name:", height=1, width=11, bg="black", fg="magenta")
+    l5 = Label(app, text="query name:", height=1, width=11, bg="black", fg="magenta")
     l5.place(x=5,y=130)
     l5.config(font=("Valmera Bold", 15))
 
