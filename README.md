@@ -7,3 +7,5 @@ Now to sort different type of urls such as instagram, youtube, X, facebook and r
 I used tkinter library in python to design frontend
 # FUTURE DEVELOPMENTS
 I am developing a code to scrape the data from the websites such as reddit , youtube, basically it will show the title, desccription, posted by , posted in which community, and the datetime
+# NO DISTRIBUTIONS
+I prefer not to distribute this project
