@@ -313,8 +313,6 @@ def mainscreen():
     resulturl_area = Frame(height=570, width=780, bg="black", borderwidth=3, highlightthickness=1, highlightbackground="turquoise")
     resulturl_area.place(x=550,y=100)
 
-    # result_are = Frame(height=340, width=760, bg="black", highlightthickness=1, highlightbackground="skyblue")
-    # result_are.place(x=550, y=330)
 
 
     
